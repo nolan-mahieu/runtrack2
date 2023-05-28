@@ -9,7 +9,7 @@
 
     // nous créons la variable $val avec la valeur 6, l'affichons, puis ajoutons 4 à cette valeur et l'affichons à nouveau.
     $val = 6;
-    echo $val
+    echo $val;
     $val += 4;
     echo $val;
 
