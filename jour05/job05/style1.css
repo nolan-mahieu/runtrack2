@@ -1,0 +1,26 @@
+body {
+    background-color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+h1 {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+form {
+    padding: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    background-color: #337ab7;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
