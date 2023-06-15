@@ -1,0 +1,1 @@
+SELECT * from etudiants where naissance < date_sub(curdate(), interval 18 year);
